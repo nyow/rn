@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Fire",
+    "data": ["Charmander", "Charmeleon", "Charizard"]
+  },
+  {
+    "type": "Water",
+    "data": ["Squirtle", "Wartortle", "Blastoise"]
+  },
+  {
+    "type": "Grass",
+    "data": ["Bulbasaur", "Ivysaur", "Venusaur"]
+  },
+  {
+    "type": "Electric",
+    "data": ["Pikachu", "Raichu"]
+  }
+]
